@@ -40,7 +40,7 @@ Firefox and Safari don't need this step.
    **Create a new script…** (or open the Tampermonkey **Dashboard** → **+** tab).
 2. Delete the template code in the editor.
 3. Copy the entire contents of
-   [`icelandair-economy-light.user.js`](./icelandair-economy-light.user.js)
+   [`icelandair-upsell-dismisser.user.js`](./icelandair-upsell-dismisser.user.js)
    and paste it into the editor.
 4. Save with **File → Save** (or `Cmd/Ctrl+S`).
 
